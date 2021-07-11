@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jannatul Ferdous 
 - 👀 I’m interested in Web designing.
 - 🌱 I’m currently learning Javascript , bootstrap and wordpress
-- 💞️ I’m looking to collaborate on thr web designing and development sector.
+- 💞️ I’m looking to collaborate on the web designing and development sector.
 - 📫 How to reach me ...
 
 <!---
